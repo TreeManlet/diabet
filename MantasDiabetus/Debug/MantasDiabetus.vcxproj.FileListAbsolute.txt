@@ -1,0 +1,2 @@
+C:\Users\adria\source\repos\MantasDiabetus\Debug\MantasDiabetus.exe
+C:\Users\adria\source\repos\MantasDiabetus\Debug\MantasDiabetus.pdb

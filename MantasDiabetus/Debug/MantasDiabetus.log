@@ -1,0 +1,4 @@
+﻿  MantasDiabetus.cpp
+C:\Users\adria\source\repos\MantasDiabetus\MantasDiabetus.cpp(60,9): warning C4101: 'i': unreferenced local variable
+C:\Users\adria\source\repos\MantasDiabetus\MantasDiabetus.cpp(292,16): warning C4552: '-': result of expression not used
+  MantasDiabetus.vcxproj -> C:\Users\adria\source\repos\MantasDiabetus\Debug\MantasDiabetus.exe
